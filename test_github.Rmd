@@ -17,7 +17,7 @@ yellow <- 12
 
 green <- 16
 
-blue <- yellow/green
+blue <- yellow/green 
 
 ```
 
